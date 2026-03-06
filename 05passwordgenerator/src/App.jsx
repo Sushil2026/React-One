@@ -1,7 +1,6 @@
 import { useState, useCallback, useEffect, useRef } from 'react'
 import toast, { Toaster } from 'react-hot-toast';
 
-
 import './App.css'
 
 function App() {
