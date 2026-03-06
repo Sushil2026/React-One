@@ -1,1 +1,1 @@
-# start of react JS on my channel
+# Start React JS from my channel
